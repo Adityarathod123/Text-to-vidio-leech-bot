@@ -32,11 +32,11 @@
 
 ## vars.py [vars.py](https://github.com/SudoR2spr/txt-leech-bot/blob/main/modules/vars.py)
 
-* `BOT_TOKEN`  - Get Bot Token From @BotFather
+* `BOT_TOKEN`  - 7112692835:AAHafRzWYXfl8N_pqvif5HM9mBasYGhAqKk
 
-* `API_ID` - From my.telegram.org 
+* `API_ID` -  25808845
 
-* `API_HASH` - From my.telegram.org
+* `API_HASH` - f7382315cec4b93169335605e686aba0
 
 * `PORT` - `8080`
 
